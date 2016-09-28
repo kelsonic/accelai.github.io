@@ -1,0 +1,15 @@
+node_modules
+webpack.config.dev.js
+webpack.config.prod.js
+devServer.js
+build/
+node_modules/
+tmp/
+static/
+**.svg
+**.swf
+**.min.js
+**/webpack.config*.js
+**.ico
+**.yml
+**.md
